@@ -7,6 +7,8 @@ I tried to save a low contrast balance with the least loss of code perception.
 
 ## Screenshots
 
+Some demo for syntax highlighting in JavaScript, React, HTML, and CSS. The recommended font for use with this theme is [Iosevka Font](https://github.com/be5invis/Iosevka).
+
 ### HTML
 
 ![ScreenshotHTML](./assets/html.png)
