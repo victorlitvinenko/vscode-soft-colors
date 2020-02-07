@@ -1,0 +1,41 @@
+{
+    "name": "vscode-soft-colors",
+    "displayName": "Soft Colors",
+    "description": "Soft Colors Theme was created with care for your eyes. I tried to save a low contrast balance with the least loss of  code perception.",
+    "version": "0.0.1",
+    "publisher": "victorlitvinenko",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "author": {
+		"name": "Victor Litvinenko"
+	},
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+		"color-theme",
+		"dark",
+		"clean",
+		"relaxed",
+		"soft-colors"
+    ],
+    "icon": "assets/theme_icon.png",
+	"galleryBanner": {
+		"color": "#212733",
+		"theme": "dark"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "Soft Colors",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Soft Colors-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/victorlitvinenko/vscode-soft-colors"
+	}
+}
