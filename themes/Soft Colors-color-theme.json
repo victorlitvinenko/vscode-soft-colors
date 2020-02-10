@@ -5,9 +5,9 @@
 		"activityBar.background": "#1a1f28",
 		"activityBar.border": "#1a1f28",
 		"activityBar.foreground": "#738699",
-		"activityBarBadge.background": "#ffd580b0",
+		"activityBarBadge.background": "#b89d64",
 		"activityBarBadge.foreground": "#1a1f28",
-		"badge.background": "#ffd580b0",
+		"badge.background": "#b89d64",
 		"badge.foreground": "#1a1f28",
 		"button.background": "#ffae57",
 		"button.foreground": "#1a1f28",
@@ -755,6 +755,6 @@
 			"settings": {
 				"foreground": "#ffae57a2"
 			}
-		},
+		}
 	]
 }

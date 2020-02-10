@@ -1,9 +1,16 @@
 # Change Log
 
-All notable changes to the "soft-colors" extension will be documented in this file.
+All notable changes to the **Soft Colors** extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### **0.0.3** - Feb 10 2020
 
-## [Unreleased]
+- Fixed badges background color
+- Updated documentation
 
-- Initial release
+### **0.0.2** - Feb 7 2020
+
+- Updated documentation
+
+### **0.0.1** - Feb 7 2020
+
+- Initial release of **Soft Colors** theme

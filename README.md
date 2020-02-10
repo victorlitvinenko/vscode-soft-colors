@@ -28,3 +28,7 @@ Some demo for syntax highlighting in JavaScript, React, HTML, and CSS. The recom
 ### CSS
 
 ![ScreenshotCSS](./assets/css.png)
+
+## Change Log
+
+[View the Change Log here](https://github.com/victorlitvinenko/vscode-soft-colors/blob/master/CHANGELOG.md)
