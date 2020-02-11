@@ -2,6 +2,10 @@
 
 All notable changes to the **Soft Colors** extension will be documented in this file.
 
+### **0.0.4** - Feb 11 2020
+
+- Fixed status bar debugging background color
+
 ### **0.0.3** - Feb 10 2020
 
 - Fixed badges background color
