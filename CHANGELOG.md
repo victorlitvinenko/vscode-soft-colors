@@ -2,6 +2,11 @@
 
 All notable changes to the **Soft Colors** extension will be documented in this file.
 
+### **0.0.5** - Feb 16 2020
+
+- Fixed side bar colors
+- Fixed git decoration colors
+
 ### **0.0.4** - Feb 11 2020
 
 - Fixed status bar debugging background color
