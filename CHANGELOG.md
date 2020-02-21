@@ -2,6 +2,12 @@
 
 All notable changes to the **Soft Colors** extension will be documented in this file.
 
+### **0.0.6** - Feb 21 2020
+
+- Fixed buttons background color
+- Fixed numbers and constants color
+- Fixed links color
+
 ### **0.0.5** - Feb 16 2020
 
 - Fixed side bar colors
