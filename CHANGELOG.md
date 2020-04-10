@@ -2,6 +2,10 @@
 
 All notable changes to the **Soft Colors** extension will be documented in this file.
 
+### **0.0.7** - Apr 10 2020
+
+- Fixed regexp font style
+
 ### **0.0.6** - Feb 21 2020
 
 - Fixed buttons background color

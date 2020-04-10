@@ -321,6 +321,13 @@
 			}
 		},
 		{
+			"name": "Regular Expressions JS",
+			"scope": "keyword.control.anchor.regexp",
+			"settings": {
+				"fontStyle": ""
+			}
+		},
+		{
 			"name": "URL",
 			"scope": "*url*, *link*, *uri*",
 			"settings": {
