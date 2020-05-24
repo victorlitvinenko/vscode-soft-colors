@@ -2,6 +2,10 @@
 
 All notable changes to the **Soft Colors** extension will be documented in this file.
 
+### **0.0.8** - May 24 2020
+
+- Fixed css tag name color
+
 ### **0.0.7** - Apr 10 2020
 
 - Fixed regexp font style

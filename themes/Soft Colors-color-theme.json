@@ -759,10 +759,16 @@
 				"fontStyle": ""
 			}
 		},
-				{
+		{
 			"scope": "variable.parameter",
 			"settings": {
 				"foreground": "#ffae57a2"
+			}
+		},
+		{
+			"scope": "entity.name.tag.css",
+			"settings": {
+					"foreground": "#FFD580B0"
 			}
 		}
 	]
