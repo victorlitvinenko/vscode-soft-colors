@@ -2,7 +2,7 @@
     "name": "vscode-soft-colors",
     "displayName": "Soft Colors",
     "description": "Soft Colors Theme was created with care for your eyes. I tried to save a low contrast balance with the least loss of code perception.",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "publisher": "victorlitvinenko",
     "engines": {
         "vscode": "^1.42.0"
