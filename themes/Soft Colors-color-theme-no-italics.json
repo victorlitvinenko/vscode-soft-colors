@@ -260,7 +260,7 @@
 			"name": "Language methods",
 			"scope": "variable.language",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#5ccfe6cc"
 			}
 		},
@@ -352,7 +352,7 @@
 			"name": "Decorators",
 			"scope": "tag.decorator.js entity.name.tag.js, tag.decorator.js punctuation.definition.tag.js",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#FFC44C"
 			}
 		},
@@ -360,7 +360,7 @@
 			"name": "ES7 Bind Operator",
 			"scope": "source.js constant.other.object.key.js string.unquoted.label.js",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#5ccfe6cc"
 			}
 		},
@@ -382,7 +382,7 @@
 			"name": "Markup - Italic",
 			"scope": "markup.italic",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#F07178"
 			}
 		},
@@ -413,7 +413,7 @@
 			"name": "Markup - Quote",
 			"scope": "markup.quote",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#5CCFE6CC"
 			}
 		},
@@ -463,7 +463,7 @@
 			"name": "Markdown - Blockquote",
 			"scope": "markup.quote, punctuation.definition.blockquote.markdown",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#5CCFE6CC"
 			}
 		},
@@ -677,14 +677,14 @@
 		{
 			"scope": "entity.other.attribute-name, keyword.control, storage.type, storage.modifier",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#ffae5794"
 			}
 		},
 		{
 			"scope": "comment",
 			"settings": {
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -779,6 +779,12 @@
 		},
 		{
 			"scope": "storage.type.function.arrow.tsx, storage.type.function.arrow.ts",
+			"settings": {
+					"fontStyle": ""
+			}
+		},
+		{
+			"scope": "entity.other.attribute-name, keyword.control",
 			"settings": {
 					"fontStyle": ""
 			}

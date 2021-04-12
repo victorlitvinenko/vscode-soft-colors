@@ -2,6 +2,11 @@
 
 All notable changes to the **Soft Colors** extension will be documented in this file.
 
+### **0.0.9** - Apr 12 2021
+
+- Fixed typescript styles
+- Published no italics version
+
 ### **0.0.8** - May 24 2020
 
 - Fixed css tag name color
