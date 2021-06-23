@@ -23,7 +23,7 @@
 		"editor.findMatchBackground": "#ffcc6633",
 		"editor.findMatchHighlightBackground": "#ffcc6633",
 		"editor.findRangeHighlightBackground": "#ffcc6633",
-		"editor.foreground": "#ffffff9a",
+		"editor.foreground": "#FFFFFFA8",
 		"editor.lineHighlightBackground": "#242b38",
 		"editor.rangeHighlightBackground": "#242b38",
 		"editor.selectionBackground": "#343f4c",
@@ -194,7 +194,7 @@
 		},
 		{
 			"name": "Operator, Misc",
-			"scope": "constant.other.color, meta.tag, punctuation.separator.inheritance.php, punctuation.section.embedded, keyword.other.substitution",
+			"scope": "constant.other.color, punctuation.separator.inheritance.php, punctuation.section.embedded, keyword.other.substitution",
 			"settings": {
 				"foreground": "#5CCFE6CC"
 			}
@@ -211,6 +211,13 @@
 			"scope": "meta.tag.jsx",
 			"settings": {
 				"foreground": "#D9D7CE"
+			}
+		},
+		{
+			"name": "Text inside Tag",
+			"scope": "meta.tag",
+			"settings": {
+				"foreground": "#FFFFFFA8"
 			}
 		},
 		{
@@ -244,7 +251,7 @@
 		},
 		{
 			"name": "Class, Instance, Support",
-			"scope": "entity.name.class, entity.name.type.class, entity.name.instance, entity.name.type.instance, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
+			"scope": "entity.name.class, entity.name.type.class, entity.name.instance, entity.name.type.instance, support.type, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
 			"settings": {
 				"foreground": "#5ccfe6cc"
 			}
@@ -694,9 +701,15 @@
 			}
 		},
 		{
-			"scope": "entity.name.tag, variable.language, entity.name.type.class, support.class, punctuation.definition.template-expression.begin.js, punctuation.definition.template-expression.end.js",
+			"scope": "entity.name.tag, variable.language, entity.name.type.class, punctuation.definition.template-expression.begin.js, punctuation.definition.template-expression.end.js",
 			"settings": {
 				"foreground": "#5ccfe6cc"
+			}
+		},
+		{
+			"scope": "support.class",
+			"settings": {
+				"foreground": "#FFD580B0"
 			}
 		},
 		{
