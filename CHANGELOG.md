@@ -2,6 +2,10 @@
 
 All notable changes to the **Soft Colors** extension will be documented in this file.
 
+### **0.1.12** - Sep 26 2021
+
+- Made functions color more contrasting
+
 ### **0.0.11** - Jun 24 2021
 
 - Fixed tags and simple text styles

@@ -11,7 +11,7 @@ Open Visual Studio Code Market Place in your Visual Studio Code, and search Soft
 
 ## Screenshots
 
-Some demo for syntax highlighting in JavaScript, React, HTML, and CSS. The recommended font for use with this theme is [Iosevka Font](https://github.com/be5invis/Iosevka).
+Some demo for syntax highlighting in JavaScript, React, HTML, and CSS. The recommended font for use with this theme is [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
 ### HTML
 
