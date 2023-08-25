@@ -208,7 +208,7 @@
 		},
 		{
 			"name": "JSX Tag",
-			"scope": "meta.tag.jsx",
+			"scope": "meta.tag.jsx, meta.tag.tsx",
 			"settings": {
 				"foreground": "#D9D7CE"
 			}
@@ -243,7 +243,7 @@
 		},
 		{
 			"name": "String, Symbols, Inherited Class, Markup Heading",
-			"scope": "string, keyword.other.template, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+			"scope": "string, keyword.other.template, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js, meta.group.braces.curly constant.other.object.key.ts string.unquoted.label.ts",
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#FFD580BF"
@@ -258,7 +258,7 @@
 		},
 		{
 			"name": "Sub-methods, Module",
-			"scope": "entity.name.module, entity.name.type.module, variable.import.parameter.js, variable.other.class.js",
+			"scope": "entity.name.module, entity.name.type.module, variable.import.parameter.js, variable.other.class.js, variable.import.parameter.ts, variable.other.class.ts",
 			"settings": {
 				"foreground": "#5ccfe6cc"
 			}
@@ -357,7 +357,7 @@
 		},
 		{
 			"name": "Decorators",
-			"scope": "tag.decorator.js entity.name.tag.js, tag.decorator.js punctuation.definition.tag.js",
+			"scope": "tag.decorator.js entity.name.tag.js, tag.decorator.js punctuation.definition.tag.js, tag.decorator.ts entity.name.tag.ts, tag.decorator.ts punctuation.definition.tag.ts",
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#FFC44C"
@@ -365,22 +365,22 @@
 		},
 		{
 			"name": "ES7 Bind Operator",
-			"scope": "source.js constant.other.object.key.js string.unquoted.label.js",
+			"scope": "source.js constant.other.object.key.js string.unquoted.label.js, source.ts constant.other.object.key.ts string.unquoted.label.ts",
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#5ccfe6cc"
 			}
 		},
 		{
-			"name": "entity.name.method.js",
-			"scope": "entity.name.method.js",
+			"name": "entity.name.method.js, entity.name.method.ts",
+			"scope": "entity.name.method.js, entity.name.method.ts",
 			"settings": {
 				"foreground": "#FFC44C"
 			}
 		},
 		{
-			"name": "meta.method.js",
-			"scope": "meta.class-method.js entity.name.function.js, variable.function.constructor",
+			"name": "meta.method.js, meta.method.ts",
+			"scope": "meta.class-method.js entity.name.function.js, variable.function.constructor, meta.class-method.ts entity.name.function.ts",
 			"settings": {
 				"foreground": "#FFC44C"
 			}
@@ -695,13 +695,13 @@
 			}
 		},
 		{
-			"scope": "punctuation, variable.language.this.js, punctuation.definition.tag.begin, punctuation.definition.tag.end",
+			"scope": "punctuation, variable.language.this.js, punctuation.definition.tag.begin, punctuation.definition.tag.end, variable.language.this.ts",
 			"settings": {
 				"foreground": "#586f89"
 			}
 		},
 		{
-			"scope": "entity.name.tag, variable.language, entity.name.type.class, punctuation.definition.template-expression.begin.js, punctuation.definition.template-expression.end.js",
+			"scope": "entity.name.tag, variable.language, entity.name.type.class, punctuation.definition.template-expression.begin.js, punctuation.definition.template-expression.end.js, punctuation.definition.template-expression.begin.ts, punctuation.definition.template-expression.end.ts",
 			"settings": {
 				"foreground": "#5ccfe6cc"
 			}
@@ -719,7 +719,7 @@
 			}
 		},
 		{
-			"scope": "variable, support.variable.property.js",
+			"scope": "variable, support.variable.property.js,, support.variable.property.ts",
 			"settings": {
 				"foreground": "#ffffffa8"
 			}
@@ -731,7 +731,7 @@
 			}
 		},
 		{
-			"scope": "variable.object.property.js, meta.object-literal.key.js",
+			"scope": "variable.object.property.js, meta.object-literal.key.js, variable.object.property.ts, meta.object-literal.key.ts",
 			"settings": {
 				"foreground": "#5ccfe6cc"
 			}
@@ -743,7 +743,7 @@
 			}
 		},
 		{
-			"scope": "punctuation.definition.parameters.begin.js.jsx, punctuation.definition.parameters.end.js.jsx",
+			"scope": "punctuation.definition.parameters.begin.js.jsx, punctuation.definition.parameters.end.js.jsx, punctuation.definition.parameters.begin.ts.tsx, punctuation.definition.parameters.end.ts.tsx",
 			"settings": {
 				"foreground": "#5ccfe690"
 			}
@@ -767,7 +767,7 @@
 			}
 		},
 		{
-			"scope": "storage.type.function.arrow.js",
+			"scope": "storage.type.function.arrow.js, storage.type.function.arrow.ts",
 			"settings": {
 				"fontStyle": ""
 			}
