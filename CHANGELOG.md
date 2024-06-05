@@ -2,9 +2,13 @@
 
 All notable changes to the **Soft Colors** extension will be documented in this file.
 
+### **1.2.0** - Jun 5 2024
+
+- Improved Go (Golang) support
+
 ### **1.1.0** - Jan 15 2022
 
-- Improved typescript support
+- Improved TypeScript support
 
 ### **1.0.0** - Nov 18 2021
 
